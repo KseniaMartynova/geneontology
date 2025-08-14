@@ -8,7 +8,7 @@
 Это вывод программы номер 1.1, здесь топологическая сортировка (глубина 3)
 <img width="1865" height="922" alt="image" src="https://github.com/user-attachments/assets/2bdea63e-de06-4866-a41a-e74332193c72" />
 
-Это поиск кратчайшего пути, через поиск вглубину
+Это поиск кратчайшего пути, через поиск вглубину (программа shortest_path.py)
 <img width="1853" height="911" alt="image" src="https://github.com/user-attachments/assets/e4f8ca32-f610-4804-aabd-28065baafbd1" />
 
 Это читабельный вывод поиска кратчайшего пути
