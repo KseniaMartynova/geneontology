@@ -11,7 +11,7 @@
 Это поиск кратчайшего пути, через поиск вглубину (программа shortest_path.py)
 <img width="1853" height="911" alt="image" src="https://github.com/user-attachments/assets/e4f8ca32-f610-4804-aabd-28065baafbd1" />
 
-Это читабельный вывод поиска кратчайшего пути
+Это читабельный вывод поиска кратчайшего пути из скрипта nice.py
 <img width="1780" height="851" alt="image" src="https://github.com/user-attachments/assets/00efdf74-133c-42de-8081-07d1b3813245" />
 
 
