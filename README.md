@@ -18,4 +18,8 @@
 Это читабельный вывод поиска кратчайшего пути из скрипта nice.py
 <img width="1780" height="851" alt="image" src="https://github.com/user-attachments/assets/00efdf74-133c-42de-8081-07d1b3813245" />
 
+## 3. Поиск наименьшего общего предка 
+<img width="1826" height="909" alt="image" src="https://github.com/user-attachments/assets/a3dfde88-46e6-4b8c-846b-53e7e78adb02" />
+
+
 
